@@ -1,6 +1,6 @@
-# 🚀 My Portfolio
+# 🚀 My Blog
 
-A personal portfolio website built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+A personal blog website built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 Deployed with [Vercel](https://vercel.com).
 
 ## ✨ Features
